@@ -15,7 +15,7 @@ function App() {
     },
     { id: 2, text: "realizar treinos fisícos", category: "Pessoal", isCompleted: false },
     { id: 3, text: "fazer curso de react", category: "Estudo", isCompleted: false },
-    { id: 4, text: "falar mal do Jefferson", category: "Trabalho", isCompleted: false }
+    { id: 4, text: "criar uma ramificação do curriculum vitae", category: "Trabalho", isCompleted: false }
   ]);
 
   const [search, setSearch] = useState("");
